@@ -2,7 +2,7 @@
 # How to use package
 
 
-Install Dependencies that are needed for the app
+Install dependencies that are needed for the package
 # 1.Install Beautiful Soup
     
     pip3 install beautifulsoup4
@@ -15,7 +15,7 @@ Source - https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beaut
 
     pip3 install psadnawebscraper
     
-# Use In App
+# How to use in an app
 
 
     from psadnawebscraper1 import psa_dna_web_scraper
